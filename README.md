@@ -6,3 +6,6 @@
 
 
 **Some packages for PCA analysis so that you can practice.
+
+Check our DEMO project
+<a href=“https://github.com/nicolesbishop/Datascience”> HERE. </a>
