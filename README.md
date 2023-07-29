@@ -10,4 +10,4 @@
 Check our DEMO project
 <a href=https://github.com/nicolesbishop/Datascience> HERE. </a>
   
-<a-Py4DSTEM- href=https://github.com/py4dstem/py4DSTEM>
+<a href=https://github.com/py4dstem/py4DSTEM> -Py4DSTEM-</a>
